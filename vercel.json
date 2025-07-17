@@ -1,7 +1,9 @@
 {
-  "functions": {
-    "**/*.php": {
-      "runtime": "vercel-php@0.7.0"
-    }
-  }
+  "rewrites": [
+    { "source": "/satta-king-786", "destination": "/api/satta-king-786" },
+    { "source": "/satta-king-leak-number", "destination": "/api/satta-king-leak-number" },
+    { "source": "/satta-king-record-chart", "destination": "/api/satta-king-record-chart" },
+    { "source": "/taj-satta-king-record-chart-2025", "destination": "/api/taj-satta-king-record-chart-2025" },
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
 }
