@@ -1,0 +1,8 @@
+{
+  "builders": [
+    {
+      "src": "*.php",
+      "use": "@vercel/php"
+    }
+  ]
+}
