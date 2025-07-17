@@ -143,8 +143,9 @@ hr {
   width: 100%;
 }
 .top-link img {
-  width: 45px;
-  height: 45px;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
 }
 .top-link td {
   text-decoration: none;
@@ -227,9 +228,10 @@ hr {
 }
 .newtable td {
   padding: 5px;
+  color: #f20010;
 }
 .newtable td:first-child {
-  color: #000;
+  /* color: #000; */
   background-color: #cec4eb;
   font-size: 11px;
   padding: 0;
@@ -381,7 +383,7 @@ h5 {
   text-decoration: none;
 }
 #livechart {
-  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 100%;
 }
@@ -436,11 +438,13 @@ h5 {
 .list_main_div {
   width: 100%;
   box-sizing: border-box;
+  background-color: #fdff00;
 }
 .list_main_div a {
   font-weight: 700;
   text-decoration: none;
-  color: #000;
+  /* color: #000; */
+  color: red;
   font-size: 17px;
 }
 .footer {
@@ -460,7 +464,7 @@ h5 {
 }
 .align {
   text-align: center;
-  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
   font-weight: 700;
   font-size: 24px;
   background-color: #ff0;
@@ -481,20 +485,23 @@ h5 {
 }
 .warning {
   padding: 15px;
+  background-color: maroon !important;
   border: 3px solid red;
   border-radius: 5px;
   background-color: #fff;
 }
 .warning h3 {
   text-align: center;
-  color: red;
+  /* color: red; */
+  color: white !important;
   font-weight: 700;
   margin-top: 10px;
 }
 .warning p {
   font-size: large;
   text-align: center;
-  color: blue;
+  /* color: blue; */
+  color: white !important;
 }
 .old td {
   background-color: #0072ff;
@@ -531,7 +538,9 @@ h5 {
 .gboardfull {
   padding: 5px 1px 5px 1px;
   border: 1px solid #000;
-  background-color: #d1601e;
+  /* background-color: #d1601e; */
+  background-color: #f20010;
+
   text-align: center;
   text-transform: uppercase;
   color: #fff;
@@ -582,7 +591,8 @@ h5 {
   text-align: center;
   min-height: 102px;
   line-height: 22px;
-  background-color: #fff;
+  /* background-color: #fff; */
+  background-color: #d2f6f8;
 }
 .gbgamehalf {
   color: #120cbc;
@@ -622,6 +632,7 @@ h5 {
 }
 .noticeb {
   border: 2px solid blue;
+  background-color: lightpink;
   width: 100%;
   text-align: center;
   padding: 10px;
@@ -698,7 +709,7 @@ h5 {
   font-size: 25px;
 }
 .addb {
-  background-color: #fff;
+  background-color: #ffffe1;
   color: #000;
   font-weight: 700;
   font-size: large;
@@ -927,7 +938,8 @@ h5 {
 .kw-ad {
   text-align: center;
   padding: 15px 15px 15px 15px;
-  background-image: linear-gradient(#000, #337ab7);
+  /* background-image: linear-gradient(#000, #337ab7); */
+  background-image: linear-gradient(#000, #54e2cf);
 }
 .kw-ad p {
   font-size: 16px;
@@ -1152,7 +1164,7 @@ textarea::placeholder {
   flex: 0 0 auto;
 }
 button.chatbox-open:after {
-  content: "4";
+  content: '4';
   position: absolute;
   background: red;
   width: 25px;
