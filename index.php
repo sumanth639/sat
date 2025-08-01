@@ -1,63 +1,46 @@
-
-
- 
-  
- 
- 
-
-
-
-
-
- 
- 
-
- 
 <?php
 
-
-
-
 ?>
- 
- 
+
 <!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
- <head>
- <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-      <title>Satta king 17/Jul/2025 | Satta Result | Sattaking | सत्ता किंग 786 | Satta chart</title>
-      <meta name="description" content="Satta King, satta live result, Sattaking, Satta King Result, Satta King 2025, Satta King live, सट्टाकिंग, Satta King Chart, Satta King Up, desawer Satta King, gali Satta King, Ghaziabad Satta King, Faridabad Satta King, Delhi bazar satta king">
-      <meta name="keywords" content="Satta King, Sattaking, Satta King Result,  Satta King 2025, Satta King live,disawer Satta King, gali Satta King, Satta King Chart, Satta King Up, Satta King 786, Satta King Gali, Satta King Desawar,  Ghaziabad Satta King, SattaKing,black Satta King, Satta King result, सट्टा किंग, Satta king no, Delhi bazar satta king">
-      <link rel="canonical" href="https://satta-king-fixed-no.in" />
-	  <meta name="author" content="Satta King">
-      <meta name="robots" content="index, follow">
-      <meta name="revisit-after" content="daily">
-	  <meta property="og:title" content="Satta king | Sattaking | सट्टा किंग | Satta record | Satta result | Satta chart">
-     <meta property="og:site_name" content="Satta king">
-     <meta property="og:url" content="#">
-     <meta property="og:description" content="Satta King, सत्ता किंग, Sattaking, Satta Result, Satta King Up, Satta Bazar, Satta King 2025, Gali result, Satta King black, Satta King 786, Upgameking, Delhi Satta, Satta King Result, Satta King Online, Delhi Satta King.">
-     <meta property="og:type" content="article">
-     <meta property="og:image" content="#images/satta-king.png">
-	 <meta name="google-adsense-account" content="ca-pub-7108667654778024">	
-	 
-	 
-	       <link rel="stylesheet" href="boostrapp.css">
-	  <link href="css/stylem.css?id=94" rel="stylesheet" type="text/css">
-	  <link rel="icon" href="images/satta-king.png" type="image/gif" sizes="16x16">
-	  <meta name="viewport" content="width=device-width" />
-	  
-	  <script src="https://jsc.adskeeper.com/site/973367.js" async type="852c657227e4dcb7730940a6-text/javascript"></script>
-	  
+<head>
+  <meta charset="UTF-8">
+  <title>Satta king | Satta Result | Sattaking | सत्ता किंग 786 | Satta chart</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- SEO Meta Tags -->
+  <meta name="description" content="Satta King, satta live result, Sattaking, Satta King Result, Satta King 2025, Satta King live, सट्टाकिंग, Satta King Chart, Satta King Up, desawer Satta King, gali Satta King, Ghaziabad Satta King, Faridabad Satta King, Delhi bazar satta king">
+  <meta name="keywords" content="Satta King, Sattaking, Satta King Result, Satta King 2025, Satta King live, disawer Satta King, gali Satta King, Satta King Chart, Satta King Up, Satta King 786, Satta King Gali, Satta King Desawar, Ghaziabad Satta King, SattaKing, black Satta King, Satta King result, सट्टा किंग, Satta king no, Delhi bazar satta king">
+  <meta name="author" content="Satta King">
+  <meta name="robots" content="index, follow">
+  <meta name="revisit-after" content="daily">
+  <link rel="canonical" href="https://satta-king-fixed-no.in">
 
+  <!-- Open Graph (OG) for Social Sharing -->
+  <meta property="og:title" content="Satta king | Sattaking | सट्टा किंग | Satta record | Satta result | Satta chart">
+  <meta property="og:site_name" content="Satta king">
+  <meta property="og:url" content="https://satta-king-fixed-no.in">
+  <meta property="og:description" content="Satta King, सत्ता किंग, Sattaking, Satta Result, Satta King Up, Satta Bazar, Satta King 2025, Gali result, Satta King black, Satta King 786, Upgameking, Delhi Satta, Satta King Result, Satta King Online, Delhi Satta King.">
+  <meta property="og:type" content="article">
+  <meta property="og:image" content="images/satta-king.png">
 
-	  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-	 
+  <!-- Google Verification & Adsense -->
+  <meta name="google-site-verification" content="0fwaW6n05MrKQPUmPhvAnHyyKeNqG6Kr3lPY-LFHz88" />
+  <meta name="google-adsense-account" content="ca-pub-7108667654778024">
 
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="boostrapp.css">
+  <link href="css/stylem.css?id=94" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
+  <!-- Favicon -->
+  <link rel="icon" href="images/satta-king.png" type="image/gif" sizes="16x16">
 
-	 <meta name="robots" content="index, follow"/>
-    <meta name="google-site-verification" content="0fwaW6n05MrKQPUmPhvAnHyyKeNqG6Kr3lPY-LFHz88" />
-    </head>
+  <!-- Ads Script -->
+  <script src="https://jsc.adskeeper.com/site/973367.js" async type="852c657227e4dcb7730940a6-text/javascript"></script>
+</head>
+
 	<body oncontextmenu="if (!window.__cfRLUnblockHandlers) return false; return false" ondragstart="if (!window.__cfRLUnblockHandlers) return false; return false" data-cf-modified-852c657227e4dcb7730940a6-="">
 	  <table class="top-link">
     <tr><td style="margin: auto; width: full;">
