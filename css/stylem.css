@@ -673,6 +673,7 @@ h5 {
   height: 40px;
   width: 160px;
   color: #fff;
+
   border-radius: 20px;
   font-weight: 700;
   font-size: 18px;
@@ -689,12 +690,16 @@ h5 {
   border: 2px solid #0053b8;
 }
 .bggreen {
-  background-color: #0f6506;
-  border: 2px solid #0f6506;
+  background-color: #25d366;
+  border: 2px solid #25d366;
 }
 .bgred {
   background-color: red;
   border: 2px solid red;
+}
+.bgblack {
+  background-color: black;
+  border: 2px solid black;
 }
 .leakb {
   background-image: linear-gradient(#fdff00, #54e2cf);
