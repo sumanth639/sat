@@ -4,6 +4,9 @@
 body {
   color: #000;
   background-color: #fff;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 a {
   color: #fff;
@@ -421,7 +424,7 @@ h5 {
   background-color: #0072ff;
   color: #fff;
 }
-.points {
+/* .points {
   border-radius: 10px;
   border: 3px solid #000;
   box-sizing: border-box;
@@ -432,7 +435,7 @@ h5 {
   padding: 10px;
   text-align: center;
   margin-bottom: 5px;
-}
+} */
 .list_heading {
   font-weight: 700;
   text-align: center;
@@ -443,7 +446,7 @@ h5 {
   color: #fff;
   font-size: 26px !important;
 }
-.list_main_div {
+/* .list_main_div {
   width: 100%;
   box-sizing: border-box;
   background-color: #fdff00;
@@ -451,10 +454,40 @@ h5 {
 .list_main_div a {
   font-weight: 700;
   text-decoration: none;
-  /* color: #000; */
+
   color: red;
   font-size: 17px;
+} */
+/* Common styles */
+.points {
+  border-radius: 10px;
+  border: 3px solid #000;
+  box-sizing: border-box;
+  box-shadow: 0 0 10px #13316c;
+  padding: 10px;
+  text-align: center;
+  margin-bottom: 5px;
 }
+
+/* Alternate backgrounds and text colors */
+.list_main_div:nth-child(odd) .points {
+  background-color: white;
+  color: black;
+}
+
+.list_main_div:nth-child(even) .points {
+  background-color: #fdff00; /* yellow */
+  color: red;
+}
+
+/* Optional: styling for link */
+.list_main_div a {
+  font-weight: 700;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+}
+
 .footer {
   background-color: #000;
   padding-top: 15px;
